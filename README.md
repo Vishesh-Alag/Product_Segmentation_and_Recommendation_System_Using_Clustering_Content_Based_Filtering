@@ -98,7 +98,7 @@ E-commerce businesses often struggle with:
 
 - 📦 Rows: `293,908`
 - 📌 Columns: `30`
-- 🗂️ Source: `new_retail_data.csv` (User Upload)
+- 🗂️ Source: `new_retail_data.csv` (User Upload) Link - https://drive.google.com/file/d/1vZ2jkQcApDsaldNrJfwewDHkwD0v5KGX/view?usp=drive_link
 
 | Feature Type       | Columns |
 |--------------------|---------|
