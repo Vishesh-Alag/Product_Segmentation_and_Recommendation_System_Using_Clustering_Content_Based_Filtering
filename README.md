@@ -94,8 +94,7 @@ E-commerce businesses often struggle with:
 
 ---
 
-### Note : Source Dataset and Other Datsets also which further used in project although you can get it by running the script, 
-uploaded a specfically folder for dataset in gdrive because datasets are above 25 mb and not uploaded directly on github.
+### Note : Source Dataset and Other Datsets also which further used in project although you can get it by running the script, uploaded a specfically folder for dataset in gdrive because datasets are above 25 mb and not uploaded directly on github.
 
 ## 🧪 Dataset Overview
 
