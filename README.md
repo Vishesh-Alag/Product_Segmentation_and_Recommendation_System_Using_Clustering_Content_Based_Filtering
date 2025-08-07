@@ -94,11 +94,15 @@ E-commerce businesses often struggle with:
 
 ---
 
+### Note : Source Dataset and Other Datsets also which further used in project although you can get it by running the script, 
+uploaded a specfically folder for dataset in gdrive because datasets are above 25 mb and not uploaded directly on github.
+
 ## 🧪 Dataset Overview
 
 - 📦 Rows: `293,908`
 - 📌 Columns: `30`
 - 🗂️ Source: `new_retail_data.csv` (User Upload) Link - https://drive.google.com/file/d/1vZ2jkQcApDsaldNrJfwewDHkwD0v5KGX/view?usp=drive_link
+- Other Datasets which further used - Link of Datasets folder - https://drive.google.com/drive/folders/1qwWXMrDBTXxizMMgVEpX7p8lkN3XPZRe?usp=sharing
 
 | Feature Type       | Columns |
 |--------------------|---------|
